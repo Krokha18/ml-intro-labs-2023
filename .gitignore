@@ -1,0 +1,5 @@
+venv
+venv/*
+00-intro/poll_results.xlsx
+00-intro/temp.ipynb
+00-intro/.ipynb_checkpoints
